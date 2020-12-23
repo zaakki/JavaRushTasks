@@ -1,0 +1,7 @@
+yes
+Ivanov
+yes
+home
+999999.99
+car
+2999.99
