@@ -7,12 +7,12 @@ target/
 .repository/
 .iml
 *.iws
-*.jrtc
+.jrtc
 .java
 .class
 .info
-*.properties
-*.jar
+.properties
+.jar
 
 
 /5.OnlineInternship/
